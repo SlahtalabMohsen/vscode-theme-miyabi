@@ -42,6 +42,8 @@ Inspired by the Ayu theme and crafted with love for the coding community. Specia
 
 - Check out the source code and contribute: [https://github.com/SlahtalabMohsen/vscode-theme-miyabi](https://github.com/SlahtalabMohsen/vscode-theme-miyabi)
 
+- Microsoft visual studio code marketplace link : https://marketplace.visualstudio.com/items?itemName=slahtalabmohsen.miyabi-theme
+
 ## 👨‍💻 Created By
 
 - Designed and developed by Slahtalab Mohsen.
