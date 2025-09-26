@@ -11,7 +11,7 @@ A refined and elegant theme for Visual Studio Code, inspired by the Japanese con
 
 ## 📸 Preview
 
-![Miyabi Theme Screenshot](/images/Screenshot.png)
+![Miyabi Theme Screenshot](images/Screenshot.png)
 _Experience the elegance of Miyabi in action._
 
 ## 🚀 Installation
@@ -37,6 +37,14 @@ Contributions are welcome! Please fork this repository, make your changes, and s
 ## 🙏 Acknowledgments
 
 Inspired by the Ayu theme and crafted with love for the coding community. Special thanks to the VS Code team for their extensible platform.
+
+## 🌐 Repository
+
+- Check out the source code and contribute: [https://github.com/SlahtalabMohsen/vscode-theme-miyabi](https://github.com/SlahtalabMohsen/vscode-theme-miyabi)
+
+## 👨‍💻 Created By
+
+- Designed and developed by Slahtalab Mohsen.
 
 ---
 

@@ -14,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Miyabi Purple Ocean",
+        "label": "Miyabi",
         "uiTheme": "vs-dark",
         "path": "./themes/miyabi-color-theme.json"
       }
@@ -37,5 +37,6 @@
   "galleryBanner": {
     "color": "#1A004D",
     "theme": "dark"
-  }
+  },
+  "license": "MIT"
 }
