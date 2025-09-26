@@ -1,11 +1,11 @@
 {
-  "name": "miyabi",
-  "displayName": "miyabi",
-  "description": "elegance theme",
+  "name": "miyabi-theme",
+  "displayName": "Miyabi Theme",
+  "description": "An elegant purple ocean cyberpunk theme inspired by Japanese aesthetics, featuring a rich purple palette and serene blue tones for a comfortable coding experience.",
   "version": "0.0.1",
   "publisher": "slahtalabmohsen",
   "engines": {
-    "vscode": "^1.104.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
@@ -14,10 +14,28 @@
   "contributes": {
     "themes": [
       {
-        "label": "miyabi",
+        "label": "Miyabi Purple Ocean",
         "uiTheme": "vs-dark",
         "path": "./themes/miyabi-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slahtalabmohsen/vscode-theme-miyabi.git"
+  },
+  "keywords": [
+    "miyabi",
+    "purple",
+    "cyberpunk",
+    "ocean",
+    "elegant",
+    "theme",
+    "dark"
+  ],
+  "pricing": "Free",
+  "galleryBanner": {
+    "color": "#1A004D",
+    "theme": "dark"
   }
 }
