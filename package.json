@@ -2,7 +2,7 @@
   "name": "miyabi-theme",
   "displayName": "Miyabi Theme",
   "description": "An elegant purple ocean cyberpunk theme inspired by Japanese aesthetics, featuring a rich purple palette and serene blue tones for a comfortable coding experience.",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "publisher": "slahtalabmohsen",
   "engines": {
     "vscode": "^1.80.0"
