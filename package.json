@@ -1,0 +1,23 @@
+{
+  "name": "miyabi",
+  "displayName": "miyabi",
+  "description": "elegance theme",
+  "version": "0.0.1",
+  "publisher": "slahtalabmohsen",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "miyabi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/miyabi-color-theme.json"
+      }
+    ]
+  }
+}
